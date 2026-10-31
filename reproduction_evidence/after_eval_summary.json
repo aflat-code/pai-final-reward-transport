@@ -1,0 +1,113 @@
+[
+  {
+    "label": "eval_after_00",
+    "parameters": [
+      0.523453607170416,
+      0.017692133092694066
+    ],
+    "reward": 20.98248718827679,
+    "reward_terms": {
+      "goal": 18.75479753023336,
+      "goal_bonus": 8.0,
+      "slide_penalty": -5.286574646631858,
+      "effort_penalty": -0.48572797562083736,
+      "terminal_height_penalty": -7.719703876141182e-06
+    },
+    "goal_error_m": 0.010756804081923926,
+    "slide_m": 0.01762191548877286,
+    "air_xy_m": 0.12912025127792334,
+    "max_lift_m": 0.022654495215641557,
+    "goal_reached": true,
+    "lifted_3cm": false,
+    "final": [
+      0.11951224973885557,
+      -0.06230097811939987,
+      1.0299999228029613
+    ],
+    "samples": 494,
+    "contact_sensor_messages": 28589,
+    "duration_wall_s": 25.0,
+    "initial": [
+      0.13,
+      0.02
+    ],
+    "goal": [
+      0.112,
+      -0.07
+    ]
+  },
+  {
+    "label": "eval_after_01",
+    "parameters": [
+      0.523453607170416,
+      0.017692133092694066
+    ],
+    "reward": 21.36086885107139,
+    "reward_terms": {
+      "goal": 18.78202657347485,
+      "goal_bonus": 8.0,
+      "slide_penalty": -4.935426575626241,
+      "effort_penalty": -0.48572797562083736,
+      "terminal_height_penalty": -3.1711563819314392e-06
+    },
+    "goal_error_m": 0.010634726597492788,
+    "slide_m": 0.01645142191875414,
+    "air_xy_m": 0.1286880672836927,
+    "max_lift_m": 0.02302741797810204,
+    "goal_reached": true,
+    "lifted_3cm": false,
+    "final": [
+      0.11945950905381252,
+      -0.06242021540678697,
+      1.0299999682884362
+    ],
+    "samples": 494,
+    "contact_sensor_messages": 56853,
+    "duration_wall_s": 25.0,
+    "initial": [
+      0.13,
+      0.02
+    ],
+    "goal": [
+      0.112,
+      -0.07
+    ]
+  },
+  {
+    "label": "eval_after_02",
+    "parameters": [
+      0.523453607170416,
+      0.017692133092694066
+    ],
+    "reward": 22.627248563897126,
+    "reward_terms": {
+      "goal": 19.124505809771016,
+      "goal_bonus": 8.0,
+      "slide_penalty": -4.011527865460038,
+      "effort_penalty": -0.48572797562083736,
+      "terminal_height_penalty": -1.4047930152472077e-06
+    },
+    "goal_error_m": 0.008976141795727277,
+    "slide_m": 0.01337175955153346,
+    "air_xy_m": 0.12918186218808242,
+    "max_lift_m": 0.022603525483533726,
+    "goal_reached": true,
+    "lifted_3cm": false,
+    "final": [
+      0.11761565007858236,
+      -0.06299745790930751,
+      1.0299999859520699
+    ],
+    "samples": 494,
+    "contact_sensor_messages": 85604,
+    "duration_wall_s": 25.0,
+    "initial": [
+      0.13,
+      0.02
+    ],
+    "goal": [
+      0.112,
+      -0.07
+    ]
+  }
+]

@@ -1,0 +1,33 @@
+{
+  "date_jst": "2026-10-31",
+  "git_commit": "[source commit omitted for privacy]",
+  "docker_image_digest": "sha256:b58ec74c019aacd9ce4818fa25fc5a9e0a1f22f8c9cd1f5260994bf15cd9eb63",
+  "fresh_container": true,
+  "fresh_public_checkout": true,
+  "original_workspace_build_reused": false,
+  "unit_tests_passed": 6,
+  "stored_episode_audit_passed": true,
+  "audited_stored_episodes": 43,
+  "physical_reexecution": {
+    "before": {
+      "goal": 3,
+      "n": 3,
+      "reward": 0.4490025445300307,
+      "slide": 91.35720958136086,
+      "air": 0.0,
+      "lift": 0.007635254621736938,
+      "error": 3.604326086780994
+    },
+    "after": {
+      "goal": 3,
+      "n": 3,
+      "reward": 21.656868201081767,
+      "slide": 15.81503231968682,
+      "air": 128.99672691656616,
+      "lift": 22.761812892425773,
+      "error": 10.122557491714664
+    }
+  },
+  "full_37_episode_search_retrained": false,
+  "exact_physics_numeric_match_claimed": false
+}

@@ -1,0 +1,6 @@
+NumPy and ROS contact messages ready.
+Starting >>> crane_act_demo
+Finished <<< crane_act_demo [1.16s]
+
+Summary: 1 package finished [1.38s]
+Ready. Source /workspace/install/setup.bash before launch or evaluation.
